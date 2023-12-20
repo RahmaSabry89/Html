@@ -68,12 +68,15 @@
 .m-0 {
   margin: 0;
 }
+.m-15 {
+    margin: 15px;
+  }
 .m-20 {
   margin: 20px;
 }
 .mt-0 {
   margin-top: 0;
-}
+}   
 .mt-5 {
   margin-top: 5px;
 }
@@ -95,12 +98,18 @@
 .mr-15 {
   margin-right: 15px;
 }
+.mb-0 {
+    margin-bottom: 0px;
+  }
 .mb-5 {
   margin-bottom: 5px;
 }
 .mb-10 {
   margin-bottom: 10px;
 }
+.mb-15 {
+    margin-bottom: 15px;
+  }
 .mb-20 {
   margin-top: 5px;
 }
@@ -184,6 +193,9 @@
 }
 .b-none {
   border: none;
+}
+.border-ccc{
+    border: #ccc 1px solid;
 }
 /* End Border */
 /* Start Width + Height */
